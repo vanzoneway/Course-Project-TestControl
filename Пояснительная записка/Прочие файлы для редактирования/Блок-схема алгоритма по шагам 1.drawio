@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" modified="2023-12-01T15:22:58.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="36Mg6t0L53x_bZxBWlu4" version="22.1.5" type="device">
+  <diagram name="Страница — 1" id="Y0ujvA5-IunV7Z9gUjW8">
+    <mxGraphModel dx="1909" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k84Snt95vilDCe-dOCDD-3" target="k84Snt95vilDCe-dOCDD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;myTest&lt;br&gt;index_to_remove&lt;br&gt;num_&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="74.75" y="-20" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k84Snt95vilDCe-dOCDD-4" target="k84Snt95vilDCe-dOCDD-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k84Snt95vilDCe-dOCDD-4" target="lopEUHeL_QOU6SgQKdZm-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="190" />
+              <mxPoint x="440" y="440" />
+              <mxPoint x="625" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;index_to_remove&lt;br&gt;&amp;gt;= 0 и&lt;br&gt;index_to_remove &lt;br&gt;&amp;lt;= размера myTest&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="74.75" y="120" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k84Snt95vilDCe-dOCDD-5" target="k84Snt95vilDCe-dOCDD-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Цикл i&lt;br&gt;(от index_to_remove&lt;br&gt;до размера myTest)&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="74.75" y="290" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k84Snt95vilDCe-dOCDD-7" target="k84Snt95vilDCe-dOCDD-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Присвоить текущему слайду значение следующего, т. е myTest[i] = myTest[i+1]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="74.75" y="470" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k84Snt95vilDCe-dOCDD-9" target="k84Snt95vilDCe-dOCDD-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k84Snt95vilDCe-dOCDD-9" target="k84Snt95vilDCe-dOCDD-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="781" y="48" />
+              <mxPoint x="781" y="290" />
+              <mxPoint x="625" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Если index_to_remove&lt;br&gt;&amp;nbsp;== размеру myTest – 1 и index_to_remove &amp;gt;= 0&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-22.5" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k84Snt95vilDCe-dOCDD-10" target="k84Snt95vilDCe-dOCDD-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Отнять от num_of_slide 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="157.5" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k84Snt95vilDCe-dOCDD-19" target="lopEUHeL_QOU6SgQKdZm-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-19" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Удалить из myTest элемент с ключом myTest.size() - 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="307.5" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k84Snt95vilDCe-dOCDD-24" target="lopEUHeL_QOU6SgQKdZm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k84Snt95vilDCe-dOCDD-24" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Цикл i&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Увеличить i на 1&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;aspect=fixed;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="74.75" y="630" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lopEUHeL_QOU6SgQKdZm-1" target="k84Snt95vilDCe-dOCDD-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Начало&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="74.75" y="-150" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="139.75" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lopEUHeL_QOU6SgQKdZm-3" target="k84Snt95vilDCe-dOCDD-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="585" y="-160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Конец&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="470" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-15" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Да&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Да&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="117.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Нет&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="157.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lopEUHeL_QOU6SgQKdZm-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Нет&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

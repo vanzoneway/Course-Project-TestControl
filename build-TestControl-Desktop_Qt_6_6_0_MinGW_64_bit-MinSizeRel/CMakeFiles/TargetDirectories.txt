@@ -1,0 +1,9 @@
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/TestControl.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/edit_cache.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/rebuild_cache.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/list_install_components.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/install.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/install/local.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/install/strip.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/TestControl_autogen_timestamp_deps.dir
+D:/TestControl/build-TestControl-Desktop_Qt_6_6_0_MinGW_64_bit-MinSizeRel/CMakeFiles/TestControl_autogen.dir
